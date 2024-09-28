@@ -5,6 +5,9 @@ contributor:
     agent_name: Törmänen, Edw.
     gutenberg_agent_id: '57516'
     url: http://www.gutenberg.org/2009/agents/57516
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scribe, Eugène
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Eugène_Scribe
     - https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Scribe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74464#Ulos-ikkunasta-b-Huvinaytelma-1ssa-naytoksessa
 gutenberg_issued: '2024-09-23'
 gutenberg_type: Text
 identifiers:
